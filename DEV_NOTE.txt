@@ -4,20 +4,37 @@
 
 
 ================================================================================
+  Requirement & Status for Stage 2 (with mark schemes) by 
+================================================================================
+
+Todo
+----
+
+Admin page - add/edit/delete        (4)
+Usecases, home and 3x two levels    (4)
+Works properly?                     (3)
+
+Aestheics & consistency             (2)
+Controllers                         (2)
+Comments & Programming style        (2)
+Models, bound to DB tables          (2)
+Rich text and image uploading       (2)
+
+
+================================================================================
   Requirement & Status for Stage 1 (with mark schemes) by January 31 @ 9:00 PM
 ================================================================================
 
 Done
 ----
 Design proposal / writeup 	(3)	- Complete
-Comment & Programming style	(2)	- Fine
-Workflow process		(1)	- Good
+Models with mock data		(3)	- Complete
+Views, template plus 4 layouts	(3)	- Complete
+Controllers, home plus three 	(2)	- Complete
 
-Need to be done
----------------
-Works properly			(3)
-Models with mock data		(3)
-Views, template plus 4 layouts	(3)
-Controllers, home plus three 	(2)
-Appropriate & Consistent UI	(2)
+Works properly			(3)	- YES
+Appropriate & Consistent UI	(2)	- YES
+
+Comment & Programming style	(2)	- OK
+Workflow process		(1)	- OK
 
